@@ -1,0 +1,26 @@
+/* Global Styling */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Header Nav Styling */
+.ui.container.segment {
+  margin-top: 10rem;
+}
+
+/* Show Page Styling */
+
+.ui.button.margintop {
+  margin-top: 2rem;
+}
+
+#del {
+  display: inline;
+}
+
+/* Footer Styling */
+.padding {
+  padding-top: 1rem;
+  letter-spacing: 2px;
+}
