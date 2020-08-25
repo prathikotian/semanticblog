@@ -1,4 +1,5 @@
 /* Global Styling */
+
 img {
   max-width: 100%;
   height: auto;
@@ -7,6 +8,10 @@ img {
 /* Header Nav Styling */
 .ui.container.segment {
   margin-top: 10rem;
+}
+
+.ui.main.segment {
+  height: 80vh;
 }
 
 /* Show Page Styling */
